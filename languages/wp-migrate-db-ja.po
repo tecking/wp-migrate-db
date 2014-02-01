@@ -17,19 +17,19 @@ msgstr "詳しい解説"
 
 #: ../wp-migrate-db.php:124
 msgid "Please enter the current URL."
-msgstr "サイトアドレスを入力してください"
+msgstr "サイトアドレスを入力してください。"
 
 #: ../wp-migrate-db.php:128
 msgid "Please enter a new URL."
-msgstr "サイトアドレスを入力してください"
+msgstr "サイトアドレスを入力してください。"
 
 #: ../wp-migrate-db.php:132
 msgid "Please enter the current file path."
-msgstr "ファイルパスを入力してください"
+msgstr "ファイルパスを入力してください。"
 
 #: ../wp-migrate-db.php:136
 msgid "Please enter a new file path."
-msgstr "ファイルパスを入力してください"
+msgstr "ファイルパスを入力してください。"
 
 #: ../wp-migrate-db.php:150 ../wp-migrate-db.php:771
 msgid "Migrate DB"
@@ -57,7 +57,7 @@ msgstr "シリアライズされた文字列を置換した件数 : "
 
 #: ../wp-migrate-db.php:238
 msgid "The directory %s needs to be writable."
-msgstr "ディレクトリ %s を書き込み可にしてください"
+msgstr "ディレクトリ %s を書き込み可にしてください。"
 
 #: ../wp-migrate-db.php:250
 msgid "Sorry, there were errors with your form submission. Please correct them below and try again."
@@ -153,7 +153,7 @@ msgstr "20%オフのチャンス"
 
 #: ../wp-migrate-db.php:401
 msgid "Subscribe to receive news &amp; updates below and we'll instantly send you a coupon code to get 20% off any WP Migrate DB Pro license."
-msgstr "お名前とメールアドレスを登録された方に、プラグインの最新情報や更新のお知らせをお届けします。また、登録の特典として、有償版ライセンスを20％オフで購入いただけるクーポンコードもプレゼントいたします。"
+msgstr "お名前とメールアドレスを登録された方に、プラグインの最新情報や更新のお知らせをお届けします。また、登録の特典として、有償版ライセンスを20%オフで購入いただけるクーポンコードもプレゼントいたします。"
 
 #: ../wp-migrate-db.php:405
 msgid "Your Name"
